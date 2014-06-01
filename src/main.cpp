@@ -41,11 +41,11 @@ CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 
 unsigned int nTargetSpacing = 1 * 30; // 30 seconds
-unsigned int nStakeMinAge = 12 * 60 * 60; // 12 hours
-unsigned int nStakeMaxAge = -1;           //unlimited
+unsigned int nStakeMinAge = 6 * 60 * 60; // 6 hours
+unsigned int nStakeMaxAge = -1;           // unlimited
 unsigned int nModifierInterval = 10 * 30; // time to elapse before new modifier is computed
 
-int nCoinbaseMaturity = 1200;
+int nCoinbaseMaturity = 50;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 
@@ -1125,8 +1125,8 @@ bool IsInitialBlockDownload()
         pindexLastBest = pindexBest;
         nLastUpdate = GetTime();
     }
-    return (GetTime() - nLastUpdate < 10 &&
-            pindexBest->GetBlockTime() < GetTime() - 24 * 60 * 60);
+    return (GetTime() - nLastUpdate < 15 &&
+            pindexBest->GetBlockTime() < GetTime() - 8 * 60 * 60);
 }
 
 void static InvalidChainFound(CBlockIndex* pindexNew)
@@ -2146,7 +2146,7 @@ bool CBlock::AcceptBlock()
     {
         if (!CheckProofOfStake(vtx[1], nBits, hashProofOfStake, targetProofOfStake))
         {
-            printf("WARNING: ProcessBlock(): check proof-of-stake failed for block %s\n", hash.ToString().c_str());
+	    printf("WARNING: AcceptBlock(): check proof-of-stake failed for block %s\n", hash.ToString().c_str());
             return false; // do not error here as we expect this during initial block download
         }
     }
