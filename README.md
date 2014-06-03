@@ -26,9 +26,7 @@ Premine: 1%
 
 Stake interest: 15% per year
 
-Block time: 30 seconds
-
-Proof-of-Stake Minimum Age: 12 hours
+Proof-of-Stake Minimum Age: 6 hours
 
 Proof-of-Stake Maximum Age: Unlimited
 
@@ -36,5 +34,4 @@ Difficulty readjusts every block
 
 Confirmations on Transactions: 10
 
-CoinBase Maturity: 1200
-
+CoinBase Maturity: 60
