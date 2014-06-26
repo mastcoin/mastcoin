@@ -1009,7 +1009,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Unix: ~/.MastCoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "MastCoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "MastiffCoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1021,10 +1021,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "MastCoin";
+    return pathRet / "MastiffCoin";
 #else
     // Unix
-    return pathRet / ".MastCoin";
+    return pathRet / ".MastiffCoin";
 #endif
 #endif
 }
