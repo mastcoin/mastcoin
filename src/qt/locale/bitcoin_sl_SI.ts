@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About mastiffcoin</source>
-        <translation>O mastiffcoin</translation>
+        <source>About mastcoin</source>
+        <translation>O mastcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;mastiffcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;mastiffcoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;mastcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;mastcoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The mastiffcoin developers</source>
+Copyright © 2014 The mastcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your mastiffcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši mastiffcoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your mastcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši mastcoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a mastiffcoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva mastiffcoin naslova</translation>
+        <source>Sign a message to prove you own a mastcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva mastcoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified mastiffcoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim mastiffcoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified mastcoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim mastcoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>mastiffcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>mastiffcoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>mastcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>mastcoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about mastiffcoin</source>
-        <translation>Pokaži informacije o mastiffcoin</translation>
+        <source>Show information about mastcoin</source>
+        <translation>Pokaži informacije o mastcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a mastiffcoin address</source>
-        <translation>Pošlji kovance na mastiffcoin naslov</translation>
+        <source>Send coins to a mastcoin address</source>
+        <translation>Pošlji kovance na mastcoin naslov</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for mastiffcoin</source>
-        <translation>Spremeni nastavitve za mastiffcoin</translation>
+        <source>Modify configuration options for mastcoin</source>
+        <translation>Spremeni nastavitve za mastcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>mastiffcoin</source>
-        <translation>mastiffcoin</translation>
+        <source>mastcoin</source>
+        <translation>mastcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About mastiffcoin</source>
-        <translation>&amp;O mastiffcoin</translation>
+        <source>&amp;About mastcoin</source>
+        <translation>&amp;O mastcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>mastiffcoin client</source>
-        <translation>mastiffcoin program</translation>
+        <source>mastcoin client</source>
+        <translation>mastcoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to mastiffcoin network</source>
-        <translation><numerusform>%n aktivne povezave na mastiffcoin omrežje</numerusform><numerusform>%n aktivnih povezav na mastiffcoin omrežje</numerusform><numerusform>%n aktivnih povezav na mastiffcoin omrežje</numerusform><numerusform>%n aktivnih povezav na mastiffcoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to mastcoin network</source>
+        <translation><numerusform>%n aktivne povezave na mastcoin omrežje</numerusform><numerusform>%n aktivnih povezav na mastcoin omrežje</numerusform><numerusform>%n aktivnih povezav na mastcoin omrežje</numerusform><numerusform>%n aktivnih povezav na mastcoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -582,12 +582,12 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About mastiffcoin card</source>
+        <source>About mastcoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about mastiffcoin card</source>
+        <source>Show information about mastcoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid mastiffcoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega mastiffcoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid mastcoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega mastcoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. mastiffcoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program mastiffcoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. mastcoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program mastcoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid mastiffcoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven mastiffcoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid mastcoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven mastcoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>mastiffcoin-Qt</source>
-        <translation>mastiffcoin-Qt</translation>
+        <source>mastcoin-Qt</source>
+        <translation>mastcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start mastiffcoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi mastiffcoin ob zagonu sistema.</translation>
+        <source>Automatically start mastcoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi mastcoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start mastiffcoin on system login</source>
-        <translation>&amp;Zaženi mastiffcoin ob prijavi v sistem</translation>
+        <source>&amp;Start mastcoin on system login</source>
+        <translation>&amp;Zaženi mastcoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the mastiffcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za mastiffcoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the mastcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za mastcoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the mastiffcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na mastiffcoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the mastcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na mastcoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting mastiffcoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu mastiffcoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting mastcoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu mastcoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,8 +1278,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show mastiffcoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza mastiffcoin naslovov v seznamu transakcij.</translation>
+        <source>Whether to show mastcoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza mastcoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting mastiffcoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu mastiffcoin aplikacije</translation>
+        <source>This setting will take effect after restarting mastcoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu mastcoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastiffcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z mastiffcoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z mastcoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the mastiffcoin-Qt help message to get a list with possible mastiffcoin command-line options.</source>
-        <translation>Prikaži mastiffcoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice mastiffcoin aplikacije</translation>
+        <source>Show the mastcoin-Qt help message to get a list with possible mastcoin command-line options.</source>
+        <translation>Prikaži mastcoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice mastcoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>mastiffcoin - Debug window</source>
-        <translation>mastiffcoin - okno za odpravljanje napak</translation>
+        <source>mastcoin - Debug window</source>
+        <translation>mastcoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>mastiffcoin Core</source>
-        <translation>mastiffcoin jedro</translation>
+        <source>mastcoin Core</source>
+        <translation>mastcoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the mastiffcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri mastiffcoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the mastcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri mastcoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the mastiffcoin RPC console.</source>
-        <translation>Dobrodošli v mastiffcoin RPC konzoli.</translation>
+        <source>Welcome to the mastcoin RPC console.</source>
+        <translation>Dobrodošli v mastcoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1764,8 +1764,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vnesite mastiffcoin naslov (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vnesite mastcoin naslov (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1864,8 +1864,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid mastiffcoin address</source>
-        <translation>OPOZORILO: Neveljaven mastiffcoin naslov</translation>
+        <source>WARNING: Invalid mastcoin address</source>
+        <translation>OPOZORILO: Neveljaven mastcoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1908,8 +1908,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Naslov kamor želite poslati plačilo (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Naslov kamor želite poslati plačilo (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1938,8 +1938,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vnesite mastiffcoin naslov (npr. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vnesite mastcoin naslov (npr. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1962,8 +1962,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Naslov s katerim želite podpisati sporočilo (npr. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Naslov s katerim želite podpisati sporočilo (npr. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1999,8 +1999,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this mastiffcoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva mastiffcoin naslova</translation>
+        <source>Sign the message to prove you own this mastcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva mastcoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,13 +2026,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified mastiffcoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim mastiffcoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified mastcoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim mastcoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vnesite mastiffcoin naslov (npr. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vnesite mastcoin naslov (npr. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter mastiffcoin signature</source>
-        <translation>Vnesite mastiffcoin podpis</translation>
+        <source>Enter mastcoin signature</source>
+        <translation>Vnesite mastcoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>mastiffcoin version</source>
-        <translation>mastiffcoin različica</translation>
+        <source>mastcoin version</source>
+        <translation>mastcoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2633,7 +2633,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or mastiffcoind</source>
+        <source>Send command to -server or mastcoind</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2653,13 +2653,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: mastiffcoin.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: mastiffcoin.conf)</translation>
+        <source>Specify configuration file (default: mastcoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: mastcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: mastiffcoind.pid)</source>
-        <translation>Določi pid datoteko (privzeto: mastiffcoin.pid)</translation>
+        <source>Specify pid file (default: mastcoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: mastcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2808,8 +2808,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastiffcoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno mastiffcoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastcoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno mastcoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,24 +2998,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=mastiffcoinrpc
+rpcuser=mastcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;mastcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=mastiffcoinrpc
+rpcuser=mastcoinrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;mastcoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alarm&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  mastiffcoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija mastiffcoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  mastcoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija mastcoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>mastiffcoin</source>
-        <translation>mastiffcoin</translation>
+        <source>mastcoin</source>
+        <translation>mastcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alarm&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of mastiffcoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo mastiffcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of mastcoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo mastcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart mastiffcoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite mastiffcoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart mastcoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite mastcoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alarm&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. mastiffcoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča mastiffcoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. mastcoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča mastcoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

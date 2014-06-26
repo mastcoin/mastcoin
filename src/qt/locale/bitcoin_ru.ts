@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About mastiffcoin</source>
-        <translation>О mastiffcoin</translation>
+        <source>About mastcoin</source>
+        <translation>О mastcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;mastiffcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;mastiffcoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;mastcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;mastcoin&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The mastiffcoin developers</source>
+Copyright © 2014 The mastcoin developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики mastiffcoin</translation>
+Все права защищены © 2014 Разработчики mastcoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your mastiffcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your mastcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a mastiffcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом mastiffcoin</translation>
+        <source>Sign a message to prove you own a mastcoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом mastcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified mastiffcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом mastiffcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified mastcoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом mastcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>mastiffcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>mastcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about mastiffcoin</source>
-        <translation>Показать информацию о mastiffcoin&apos;е</translation>
+        <source>Show information about mastcoin</source>
+        <translation>Показать информацию о mastcoin&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a mastiffcoin address</source>
-        <translation>Отправить монеты на указанный адрес mastiffcoin</translation>
+        <source>Send coins to a mastcoin address</source>
+        <translation>Отправить монеты на указанный адрес mastcoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for mastiffcoin</source>
-        <translation>Изменить параметры конфигурации mastiffcoin</translation>
+        <source>Modify configuration options for mastcoin</source>
+        <translation>Изменить параметры конфигурации mastcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>mastiffcoin</source>
-        <translation>mastiffcoin</translation>
+        <source>mastcoin</source>
+        <translation>mastcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About mastiffcoin</source>
-        <translation>&amp;О mastiffcoin</translation>
+        <source>&amp;About mastcoin</source>
+        <translation>&amp;О mastcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>mastiffcoin client</source>
-        <translation>mastiffcoin клиент</translation>
+        <source>mastcoin client</source>
+        <translation>mastcoin клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to mastiffcoin network</source>
+        <source>%n active connection(s) to mastcoin network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -584,12 +584,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About mastiffcoin card</source>
-        <translation>О карте mastiffcoin</translation>
+        <source>About mastcoin card</source>
+        <translation>О карте mastcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about mastiffcoin card</source>
+        <source>Show information about mastcoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,8 +669,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid mastiffcoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом mastiffcoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid mastcoin address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом mastcoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. mastiffcoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. mastiffcoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. mastcoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. mastcoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1049,8 +1049,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid mastiffcoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным mastiffcoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid mastcoin address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным mastcoin-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1068,8 +1068,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>mastiffcoin-Qt</source>
-        <translation>mastiffcoin-Qt</translation>
+        <source>mastcoin-Qt</source>
+        <translation>mastcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1141,13 +1141,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start mastiffcoin after logging in to the system.</source>
-        <translation>Автоматически запускать mastiffcoin после входа в систему</translation>
+        <source>Automatically start mastcoin after logging in to the system.</source>
+        <translation>Автоматически запускать mastcoin после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start mastiffcoin on system login</source>
-        <translation>&amp;Запускать mastiffcoin при входе в систему</translation>
+        <source>&amp;Start mastcoin on system login</source>
+        <translation>&amp;Запускать mastcoin при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the mastiffcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для mastiffcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the mastcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для mastcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1176,8 +1176,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the mastiffcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети mastiffcoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the mastcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети mastcoin через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1251,8 +1251,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting mastiffcoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска mastiffcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting mastcoin.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска mastcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1266,8 +1266,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show mastiffcoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса mastiffcoin в списке транзакций.</translation>
+        <source>Whether to show mastcoin addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса mastcoin в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1313,8 +1313,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting mastiffcoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска mastiffcoin</translation>
+        <source>This setting will take effect after restarting mastcoin.</source>
+        <translation>Эта настройка вступит в силу после перезапуска mastcoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1332,8 +1332,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastiffcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью mastiffcoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью mastcoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1548,8 +1548,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the mastiffcoin-Qt help message to get a list with possible mastiffcoin command-line options.</source>
-        <translation>Показать помощь по mastiffcoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the mastcoin-Qt help message to get a list with possible mastcoin command-line options.</source>
+        <translation>Показать помощь по mastcoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,13 +1568,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>mastiffcoin - Debug window</source>
-        <translation>mastiffcoin - Окно отладки</translation>
+        <source>mastcoin - Debug window</source>
+        <translation>mastcoin - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>mastiffcoin Core</source>
-        <translation>Ядро mastiffcoin</translation>
+        <source>mastcoin Core</source>
+        <translation>Ядро mastcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the mastiffcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл mastiffcoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the mastcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл mastcoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1593,8 +1593,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the mastiffcoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль mastiffcoin.</translation>
+        <source>Welcome to the mastcoin RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль mastcoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1752,8 +1752,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите mastiffcoin-адрес (например mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите mastcoin-адрес (например mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1852,7 +1852,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid mastiffcoin address</source>
+        <source>WARNING: Invalid mastcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1896,8 +1896,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес получателя платежа (например mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Адрес получателя платежа (например mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1926,8 +1926,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите mastiffcoin-адрес (например mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите mastcoin-адрес (например mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1950,8 +1950,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес, которым вы хотите подписать сообщение  (напр. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Адрес, которым вы хотите подписать сообщение  (напр. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1987,8 +1987,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this mastiffcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом mastiffcoin</translation>
+        <source>Sign the message to prove you own this mastcoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом mastcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,13 +2014,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Адрес, которым было подписано сообщение (напр. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Адрес, которым было подписано сообщение (напр. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified mastiffcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом mastiffcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified mastcoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом mastcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введите адрес mastiffcoin (напр. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Введите адрес mastcoin (напр. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2040,8 +2040,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter mastiffcoin signature</source>
-        <translation>Введите подпись mastiffcoin</translation>
+        <source>Enter mastcoin signature</source>
+        <translation>Введите подпись mastcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2611,7 +2611,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>mastiffcoin version</source>
+        <source>mastcoin version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2621,8 +2621,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or mastiffcoind</source>
-        <translation>Отправить команду на -server или mastiffcoind</translation>
+        <source>Send command to -server or mastcoind</source>
+        <translation>Отправить команду на -server или mastcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2642,13 +2642,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: mastiffcoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: mastiffcoin.conf)</translation>
+        <source>Specify configuration file (default: mastcoin.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: mastcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: mastiffcoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: mastiffcoind.pid)</translation>
+        <source>Specify pid file (default: mastcoind.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: mastcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2797,8 +2797,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastiffcoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, mastiffcoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastcoin will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, mastcoin будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2987,13 +2987,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=mastiffcoinrpc
+rpcuser=mastcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;mastcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3119,13 +3119,13 @@ for example: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  mastiffcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  mastcoin is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>mastiffcoin</source>
-        <translation>mastiffcoin</translation>
+        <source>mastcoin</source>
+        <translation>mastcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3159,13 +3159,13 @@ for example: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of mastiffcoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию mastiffcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of mastcoin</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию mastcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart mastiffcoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите mastiffcoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart mastcoin to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите mastcoin для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3234,8 +3234,8 @@ for example: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. mastiffcoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, mastiffcoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. mastcoin is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, mastcoin уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

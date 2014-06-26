@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About mastiffcoin</source>
-        <translation>Despre mastiffcoin</translation>
+        <source>About mastcoin</source>
+        <translation>Despre mastcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;mastiffcoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;mastiffcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;mastcoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;mastcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The mastiffcoin developers</source>
+Copyright © 2014 The mastcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The mastiffcoin developers</translation>
+Copyright © 2014 The mastcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your mastiffcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele mastiffcoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your mastcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele mastcoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a mastiffcoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă mastiffcoin</translation>
+        <source>Sign a message to prove you own a mastcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă mastcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified mastiffcoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă mastiffcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified mastcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă mastcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>mastiffcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>mastiffcoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>mastcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>mastcoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about mastiffcoin</source>
-        <translation>Arată informații despre mastiffcoin</translation>
+        <source>Show information about mastcoin</source>
+        <translation>Arată informații despre mastcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a mastiffcoin address</source>
-        <translation>Trimite monede către o adresă mastiffcoin</translation>
+        <source>Send coins to a mastcoin address</source>
+        <translation>Trimite monede către o adresă mastcoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for mastiffcoin</source>
-        <translation>Modifică opțiuni de configurare pentru mastiffcoin</translation>
+        <source>Modify configuration options for mastcoin</source>
+        <translation>Modifică opțiuni de configurare pentru mastcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-202"/>
-        <source>mastiffcoin</source>
-        <translation>mastiffcoin</translation>
+        <source>mastcoin</source>
+        <translation>mastcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About mastiffcoin</source>
-        <translation>Despre mastiffcoin</translation>
+        <source>&amp;About mastcoin</source>
+        <translation>Despre mastcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>mastiffcoin client</source>
-        <translation>Clientul mastiffcoin</translation>
+        <source>mastcoin client</source>
+        <translation>Clientul mastcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to mastiffcoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua mastiffcoin</numerusform><numerusform>%n conexiuni active la reteaua mastiffcoin</numerusform><numerusform>%n conexiuni active la reteaua mastiffcoin</numerusform></translation>
+        <source>%n active connection(s) to mastcoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua mastcoin</numerusform><numerusform>%n conexiuni active la reteaua mastcoin</numerusform><numerusform>%n conexiuni active la reteaua mastcoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-312"/>
-        <source>About mastiffcoin card</source>
-        <translation>Despre cardul mastiffcoin</translation>
+        <source>About mastcoin card</source>
+        <translation>Despre cardul mastcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about mastiffcoin card</source>
-        <translation>Arată informații despre card mastiffcoin</translation>
+        <source>Show information about mastcoin card</source>
+        <translation>Arată informații despre card mastcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid mastiffcoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa mastiffcoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid mastcoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa mastcoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. mastiffcoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. mastiffcoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. mastcoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. mastcoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid mastiffcoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă mastiffcoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid mastcoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă mastcoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>mastiffcoin-Qt</source>
-        <translation>mastiffcoin-Qt</translation>
+        <source>mastcoin-Qt</source>
+        <translation>mastcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start mastiffcoin after logging in to the system.</source>
-        <translation>Pornește mastiffcoin imdiat după logarea în sistem</translation>
+        <source>Automatically start mastcoin after logging in to the system.</source>
+        <translation>Pornește mastcoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start mastiffcoin on system login</source>
-        <translation>$Pornește mastiffcoin la logarea în sistem</translation>
+        <source>&amp;Start mastcoin on system login</source>
+        <translation>$Pornește mastcoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the mastiffcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul mastiffcoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the mastcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul mastcoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the mastiffcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua mastiffcoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the mastcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua mastcoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting mastiffcoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea mastiffcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting mastcoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea mastcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show mastiffcoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese mastiffcoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show mastcoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese mastcoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting mastiffcoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea mastiffcoin.</translation>
+        <source>This setting will take effect after restarting mastcoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea mastcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastiffcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua mastiffcoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua mastcoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the mastiffcoin-Qt help message to get a list with possible mastiffcoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor mastiffcoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă mastiffcoin.</translation>
+        <source>Show the mastcoin-Qt help message to get a list with possible mastcoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor mastcoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă mastcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>mastiffcoin - Debug window</source>
-        <translation>mastiffcoin - fereastră depanare</translation>
+        <source>mastcoin - Debug window</source>
+        <translation>mastcoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>mastiffcoin Core</source>
-        <translation>mastiffcoin Core</translation>
+        <source>mastcoin Core</source>
+        <translation>mastcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the mastiffcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare mastiffcoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the mastcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare mastcoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the mastiffcoin RPC console.</source>
-        <translation>Bine ati venit la consola mastiffcoin RPC.</translation>
+        <source>Welcome to the mastcoin RPC console.</source>
+        <translation>Bine ati venit la consola mastcoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă mastiffcoin(ex:mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă mastcoin(ex:mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid mastiffcoin address</source>
-        <translation>Atenție: Adresă mastiffcoin invalidă</translation>
+        <source>WARNING: Invalid mastcoin address</source>
+        <translation>Atenție: Adresă mastcoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa catre care trimiteti plata(ex. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa catre care trimiteti plata(ex. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă mastiffcoin(ex:mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă mastcoin(ex:mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa cu care semnati mesajul(ex. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa cu care semnati mesajul(ex. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this mastiffcoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă mastiffcoin</translation>
+        <source>Sign the message to prove you own this mastcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă mastcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa cu care a fost semnat mesajul(ex. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa cu care a fost semnat mesajul(ex. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified mastiffcoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă mastiffcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified mastcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă mastcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă mastiffcoin(ex:mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă mastcoin(ex:mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter mastiffcoin signature</source>
-        <translation>Introduceti semnatura mastiffcoin</translation>
+        <source>Enter mastcoin signature</source>
+        <translation>Introduceti semnatura mastcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>mastiffcoin version</source>
-        <translation>Versiune mastiffcoin</translation>
+        <source>mastcoin version</source>
+        <translation>Versiune mastcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or mastiffcoind</source>
-        <translation>Trimite comanda catre server sau mastiffcoind</translation>
+        <source>Send command to -server or mastcoind</source>
+        <translation>Trimite comanda catre server sau mastcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: mastiffcoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: mastiffcoin.conf)</translation>
+        <source>Specify configuration file (default: mastcoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: mastcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: mastiffcoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: mastiffcoin.pid)</translation>
+        <source>Specify pid file (default: mastcoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: mastcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastiffcoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit mastiffcoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastcoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit mastcoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,22 +3000,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=mastiffcoinrpc
+rpcuser=mastcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;mastcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=mastiffcoinrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=mastcoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;mastcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  mastiffcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  mastcoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>mastiffcoin</source>
-        <translation>mastiffcoin</translation>
+        <source>mastcoin</source>
+        <translation>mastcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of mastiffcoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de mastiffcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of mastcoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de mastcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart mastiffcoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați mastiffcoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart mastcoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați mastcoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. mastiffcoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil mastiffcoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. mastcoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil mastcoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

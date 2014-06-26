@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About mastiffcoin</source>
-        <translation>Om mastiffcoin</translation>
+        <source>About mastcoin</source>
+        <translation>Om mastcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;mastiffcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;mastiffcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;mastcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;mastcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The mastiffcoin developers</source>
+Copyright © 2014 The mastcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The mastiffcoin developers</translation>
+Copyright © 2014 The mastcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your mastiffcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine mastiffcoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your mastcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine mastcoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a mastiffcoin address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en mastiffcoin adresse</translation>
+        <source>Sign a message to prove you own a mastcoin address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en mastcoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified mastiffcoin address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret mastiffcoin adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified mastcoin address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret mastcoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>mastiffcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>mastiffcoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>mastcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>mastcoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about mastiffcoin</source>
-        <translation>Vis oplysninger om mastiffcoin</translation>
+        <source>Show information about mastcoin</source>
+        <translation>Vis oplysninger om mastcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a mastiffcoin address</source>
-        <translation>Send mønter til en mastiffcoin adresse</translation>
+        <source>Send coins to a mastcoin address</source>
+        <translation>Send mønter til en mastcoin adresse</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for mastiffcoin</source>
-        <translation>Ændre indstillingsmuligheder for mastiffcoin</translation>
+        <source>Modify configuration options for mastcoin</source>
+        <translation>Ændre indstillingsmuligheder for mastcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>mastiffcoin</source>
-        <translation>mastiffcoin</translation>
+        <source>mastcoin</source>
+        <translation>mastcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About mastiffcoin</source>
-        <translation>&amp;Om mastiffcoin</translation>
+        <source>&amp;About mastcoin</source>
+        <translation>&amp;Om mastcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>mastiffcoin client</source>
-        <translation>mastiffcoin Klient</translation>
+        <source>mastcoin client</source>
+        <translation>mastcoin Klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to mastiffcoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til mastiffcoin netværk</numerusform><numerusform>%n aktive forbindelser til mastiffcoin netværk</numerusform></translation>
+        <source>%n active connection(s) to mastcoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til mastcoin netværk</numerusform><numerusform>%n aktive forbindelser til mastcoin netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About mastiffcoin card</source>
-        <translation>Om mastiffcoin kort</translation>
+        <source>About mastcoin card</source>
+        <translation>Om mastcoin kort</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about mastiffcoin card</source>
-        <translation>Vis oplysninger om mastiffcoin kort</translation>
+        <source>Show information about mastcoin card</source>
+        <translation>Vis oplysninger om mastcoin kort</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid mastiffcoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig mastiffcoin adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid mastcoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig mastcoin adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,7 +729,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. mastiffcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. mastcoin can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1063,8 +1063,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid mastiffcoin address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig mastiffcoin adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid mastcoin address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig mastcoin adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>mastiffcoin-Qt</source>
-        <translation>mastiffcoin-Qt</translation>
+        <source>mastcoin-Qt</source>
+        <translation>mastcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start mastiffcoin after logging in to the system.</source>
-        <translation>Automatisk start mastiffcoin efter at have logget ind på systemet.</translation>
+        <source>Automatically start mastcoin after logging in to the system.</source>
+        <translation>Automatisk start mastcoin efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start mastiffcoin on system login</source>
-        <translation>&amp;Start mastiffcoin ved systems login</translation>
+        <source>&amp;Start mastcoin on system login</source>
+        <translation>&amp;Start mastcoin ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the mastiffcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne mastiffcoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the mastcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne mastcoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the mastiffcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til mastiffcoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the mastcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til mastcoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting mastiffcoin.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af mastiffcoin tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting mastcoin.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af mastcoin tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show mastiffcoin addresses in the transaction list or not.</source>
-        <translation>Få vist mastiffcoin adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show mastcoin addresses in the transaction list or not.</source>
+        <translation>Få vist mastcoin adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting mastiffcoin.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af mastiffcoin.</translation>
+        <source>This setting will take effect after restarting mastcoin.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af mastcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastiffcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med mastiffcoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med mastcoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the mastiffcoin-Qt help message to get a list with possible mastiffcoin command-line options.</source>
-        <translation>Vis mastiffcoin-Qt hjælpe besked for at få en liste med mulige mastiffcoin kommandolinjeparametre.</translation>
+        <source>Show the mastcoin-Qt help message to get a list with possible mastcoin command-line options.</source>
+        <translation>Vis mastcoin-Qt hjælpe besked for at få en liste med mulige mastcoin kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>mastiffcoin - Debug window</source>
-        <translation>mastiffcoin - Debug vindue</translation>
+        <source>mastcoin - Debug window</source>
+        <translation>mastcoin - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>mastiffcoin Core</source>
-        <translation>mastiffcoin Kerne</translation>
+        <source>mastcoin Core</source>
+        <translation>mastcoin Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the mastiffcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn mastiffcoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the mastcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn mastcoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the mastiffcoin RPC console.</source>
-        <translation>Velkommen til mastiffcoin RPC-konsol.</translation>
+        <source>Welcome to the mastcoin RPC console.</source>
+        <translation>Velkommen til mastcoin RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en mastiffcoin-adresse (f.eks mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en mastcoin-adresse (f.eks mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid mastiffcoin address</source>
-        <translation>ADVARSEL: Ugyldig mastiffcoin adresse</translation>
+        <source>WARNING: Invalid mastcoin address</source>
+        <translation>ADVARSEL: Ugyldig mastcoin adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen til at sende betalingen til (f.eks mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen til at sende betalingen til (f.eks mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en mastiffcoin-adresse (f.eks mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en mastcoin-adresse (f.eks mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresse til at underskrive meddelelsen med (f.eks mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresse til at underskrive meddelelsen med (f.eks mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this mastiffcoin address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne mastiffcoin adresse</translation>
+        <source>Sign the message to prove you own this mastcoin address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne mastcoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adressen meddelelse blev underskrevet med (f.eks mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen meddelelse blev underskrevet med (f.eks mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified mastiffcoin address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne mastiffcoin adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified mastcoin address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne mastcoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en mastiffcoin-adresse (f.eks mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en mastcoin-adresse (f.eks mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter mastiffcoin signature</source>
-        <translation>Indtast mastiffcoin underskrift</translation>
+        <source>Enter mastcoin signature</source>
+        <translation>Indtast mastcoin underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>mastiffcoin version</source>
-        <translation>mastiffcoin version</translation>
+        <source>mastcoin version</source>
+        <translation>mastcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or mastiffcoind</source>
-        <translation>Send kommando til-server eller mastiffcoind</translation>
+        <source>Send command to -server or mastcoind</source>
+        <translation>Send kommando til-server eller mastcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: mastiffcoin.conf)</source>
-        <translation>Angiv konfigurationsfil (default: mastiffcoin.conf)</translation>
+        <source>Specify configuration file (default: mastcoin.conf)</source>
+        <translation>Angiv konfigurationsfil (default: mastcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: mastiffcoind.pid)</source>
-        <translation>Angiv pid fil (standard: mastiffcoind.pid)</translation>
+        <source>Specify pid file (default: mastcoind.pid)</source>
+        <translation>Angiv pid fil (standard: mastcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastiffcoin will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil mastiffcoin ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastcoin will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil mastcoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=mastiffcoinrpc
+rpcuser=mastcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;mastcoin Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
 Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = mastiffcoinrpc  
+rpcuser = mastcoinrpc  
 rpcpassword =% s  
 (du behøver ikke at huske denne adgangskode)  
 Brugernavn og adgangskode må ikke være den samme.  
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
 Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;mastiffcoin Alert&quot; admin@foo.com 
+for eksempel: alertnotify = echo%% s | mail-s &quot;mastcoin Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3142,13 +3142,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;mastiffcoin Alert&quot; admi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  mastiffcoin is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. mastiffcoin kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  mastcoin is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. mastcoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>mastiffcoin</source>
-        <translation>mastiffcoin</translation>
+        <source>mastcoin</source>
+        <translation>mastcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3182,13 +3182,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;mastiffcoin Alert&quot; admi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of mastiffcoin</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af mastiffcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of mastcoin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af mastcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart mastiffcoin to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart mastiffcoin for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart mastcoin to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart mastcoin for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3257,8 +3257,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;mastiffcoin Alert&quot; admi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. mastiffcoin is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. mastiffcoin kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. mastcoin is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. mastcoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>

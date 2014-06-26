@@ -1,9 +1,9 @@
-Building MastiffCoin
+Building MastCoin
 
-See doc/readme-qt.rst for instructions on building mastiffcoin QT,
+See doc/readme-qt.rst for instructions on building mastcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of MastiffCoin.
+implementation of MastCoin.
 
-See doc/build-*.txt for instructions on building mastiffcoind,
+See doc/build-*.txt for instructions on building mastcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of MastiffCoin.
+implementation of MastCoin.

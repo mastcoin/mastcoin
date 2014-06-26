@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About mastiffcoin</source>
+        <source>About mastcoin</source>
         <translation>关于黑币</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;mastiffcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;mastcoin&lt;/b&gt; version</source>
         <translation>黑币客户端 版本</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The mastiffcoin developers</source>
+Copyright © 2014 The mastcoin developers</source>
         <translation>版权所有 © 2009-2014 比特币Bitcoin开发组
 版权所有 © 2012-2014 新星币Novacoin开发组
-版权所有 © 2014 黑币mastiffcoin开发组</translation>
+版权所有 © 2014 黑币mastcoin开发组</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your mastiffcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your mastcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>这是您用来接收支付的黑币地址列表。为不同的支付方建立不同的地址以便于了解支付来源。</translation>
     </message>
     <message>
@@ -80,7 +80,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a mastiffcoin address</source>
+        <source>Sign a message to prove you own a mastcoin address</source>
         <translation>对信息进行签名以证明您对该黑币地址的所有权</translation>
     </message>
     <message>
@@ -95,7 +95,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified mastiffcoin address</source>
+        <source>Verify a message to ensure it was signed with a specified mastcoin address</source>
         <translation>验证信息以保证其经过指定黑币地址的签名</translation>
     </message>
     <message>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>mastiffcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>mastcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>黑币客户端即将关闭以完成加密过程。请记住，加密钱包并不能完全防止您的电子货币被入侵您计算机的木马软件盗窃。</translation>
     </message>
     <message>
@@ -377,7 +377,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about mastiffcoin</source>
+        <source>Show information about mastcoin</source>
         <translation>显示关于黑币的信息</translation>
     </message>
     <message>
@@ -427,12 +427,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a mastiffcoin address</source>
+        <source>Send coins to a mastcoin address</source>
         <translation>向指定的地址发送黑币</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for mastiffcoin</source>
+        <source>Modify configuration options for mastcoin</source>
         <translation>更改设置选项</translation>
     </message>
     <message>
@@ -472,7 +472,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>mastiffcoin</source>
+        <source>mastcoin</source>
         <translation>黑币</translation>
     </message>
     <message>
@@ -482,7 +482,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About mastiffcoin</source>
+        <source>&amp;About mastcoin</source>
         <translation>关于黑币(&amp;A)</translation>
     </message>
     <message>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>mastiffcoin client</source>
+        <source>mastcoin client</source>
         <translation>黑币客户端</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to mastiffcoin network</source>
+        <source>%n active connection(s) to mastcoin network</source>
         <translation><numerusform>与黑币网络建立了 %n 个连接</numerusform></translation>
     </message>
     <message>
@@ -584,12 +584,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About mastiffcoin card</source>
+        <source>About mastcoin card</source>
         <translation>关于黑币卡</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about mastiffcoin card</source>
+        <source>Show information about mastcoin card</source>
         <translation>显示关于黑币卡的信息</translation>
     </message>
     <message>
@@ -669,7 +669,7 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid mastiffcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid mastcoin address or malformed URI parameters.</source>
         <translation>无法解析URI：无效的黑币地址或错误的URI参数。</translation>
     </message>
     <message>
@@ -729,7 +729,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. mastiffcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. mastcoin can no longer continue safely and will quit.</source>
         <translation>发生严重错误，黑币客户端即将关闭。</translation>
     </message>
 </context>
@@ -1056,7 +1056,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid mastiffcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid mastcoin address.</source>
         <translation>“%1” 不是有效的黑币地址。</translation>
     </message>
     <message>
@@ -1075,8 +1075,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>mastiffcoin-Qt</source>
-        <translation>黑币客户端mastiffcoin-Qt</translation>
+        <source>mastcoin-Qt</source>
+        <translation>黑币客户端mastcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1148,12 +1148,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start mastiffcoin after logging in to the system.</source>
+        <source>Automatically start mastcoin after logging in to the system.</source>
         <translation>开机自动启动黑币客户端</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start mastiffcoin on system login</source>
+        <source>&amp;Start mastcoin on system login</source>
         <translation>开机时自动启动黑币客户端(&amp;S)</translation>
     </message>
     <message>
@@ -1173,7 +1173,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the mastiffcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the mastcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>路由器自动打开黑币客户端端口。该功能仅在路由器开启UPnP支持时有效。</translation>
     </message>
     <message>
@@ -1183,7 +1183,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the mastiffcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the mastcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>经SOCKS代理连接到黑币网络(例如使用Tor)</translation>
     </message>
     <message>
@@ -1258,7 +1258,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting mastiffcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting mastcoin.</source>
         <translation>在此设置用户界面语言。重启黑币客户端后设置生效。</translation>
     </message>
     <message>
@@ -1273,7 +1273,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show mastiffcoin addresses in the transaction list or not.</source>
+        <source>Whether to show mastcoin addresses in the transaction list or not.</source>
         <translation>是否在交易列表中显示黑币地址</translation>
     </message>
     <message>
@@ -1320,7 +1320,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting mastiffcoin.</source>
+        <source>This setting will take effect after restarting mastcoin.</source>
         <translation>重启客户端后设置生效</translation>
     </message>
     <message>
@@ -1339,7 +1339,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastiffcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the mastcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>所显示的信息尚未更新，建立连接后钱包客户端会自动和网络进行同步，但目前该过程尚未完成。</translation>
     </message>
     <message>
@@ -1555,7 +1555,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the mastiffcoin-Qt help message to get a list with possible mastiffcoin command-line options.</source>
+        <source>Show the mastcoin-Qt help message to get a list with possible mastcoin command-line options.</source>
         <translation>显示关于命令行选项的帮助信息。</translation>
     </message>
     <message>
@@ -1575,12 +1575,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>mastiffcoin - Debug window</source>
+        <source>mastcoin - Debug window</source>
         <translation>黑币客户端-调试窗口</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>mastiffcoin Core</source>
+        <source>mastcoin Core</source>
         <translation>黑币核心进程</translation>
     </message>
     <message>
@@ -1590,7 +1590,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the mastiffcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the mastcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>打开调试日志文件，对于较大的文件，这可能持续几秒钟。</translation>
     </message>
     <message>
@@ -1600,7 +1600,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the mastiffcoin RPC console.</source>
+        <source>Welcome to the mastcoin RPC console.</source>
         <translation>欢迎使用黑币RPC控制台。</translation>
     </message>
     <message>
@@ -1759,8 +1759,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>输入黑币地址(例如：mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>输入黑币地址(例如：mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1859,7 +1859,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid mastiffcoin address</source>
+        <source>WARNING: Invalid mastcoin address</source>
         <translation>警告：无效的黑币地址</translation>
     </message>
     <message>
@@ -1903,8 +1903,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>收款人地址(例：mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>收款人地址(例：mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1933,8 +1933,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>输入一个黑币地址 (例：mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>输入一个黑币地址 (例：mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1957,8 +1957,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>用来签名该消息的地址(例： mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>用来签名该消息的地址(例： mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1994,7 +1994,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this mastiffcoin address</source>
+        <source>Sign the message to prove you own this mastcoin address</source>
         <translation>对该消息进行签名以证明您对该黑币地址的所有权</translation>
     </message>
     <message>
@@ -2021,12 +2021,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>用来签名该消息的黑币地址(例： mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>用来签名该消息的黑币地址(例： mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified mastiffcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified mastcoin address</source>
         <translation>确认该消息以保证它经由指定的黑币地址签名</translation>
     </message>
     <message>
@@ -2037,8 +2037,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a mastiffcoin address (e.g. mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>输入黑币地址(例： mastiffcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a mastcoin address (e.g. mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>输入黑币地址(例： mastcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2047,7 +2047,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter mastiffcoin signature</source>
+        <source>Enter mastcoin signature</source>
         <translation>输入黑币签名</translation>
     </message>
     <message>
@@ -2618,7 +2618,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>mastiffcoin version</source>
+        <source>mastcoin version</source>
         <translation>黑币客户端 版本</translation>
     </message>
     <message>
@@ -2628,8 +2628,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or mastiffcoind</source>
-        <translation>向-server服务器或mastiffcoind发送命令</translation>
+        <source>Send command to -server or mastcoind</source>
+        <translation>向-server服务器或mastcoind发送命令</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2651,13 +2651,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: mastiffcoin.conf)</source>
-        <translation>指定配置文件(默认: mastiffcoin.conf)</translation>
+        <source>Specify configuration file (default: mastcoin.conf)</source>
+        <translation>指定配置文件(默认: mastcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: mastiffcoind.pid)</source>
-        <translation>指定pid文件(默认: mastiffcoind.pid)</translation>
+        <source>Specify pid file (default: mastcoind.pid)</source>
+        <translation>指定pid文件(默认: mastcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2811,7 +2811,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastiffcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong mastcoin will not work properly.</source>
         <translation>警告：请确认您计算机的本地时间。如果时钟错误，黑币客户端将不能正常工作。</translation>
     </message>
     <message>
@@ -3001,24 +3001,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=mastiffcoinrpc
+rpcuser=mastcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;mastcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, 必须在配置文件里设置rpc密码:
  %s
 建议使用如下的随机密码:
-rpcuser=mastiffcoinrpc
+rpcuser=mastcoinrpc
 rpcpassword=%s
 (不需要记住该密码)
 用户名和密码不能重复。
 如果该文件不存在，请自行创建并设为用户本身只读权限。
 建议创建提示以监测可能的问题，如：
-alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
+alertnotify=echo %%s | mail -s &quot;mastcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3147,12 +3147,12 @@ alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  mastiffcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  mastcoin is probably already running.</source>
         <translation>无法从数据目录 %s 获得锁定.  黑币客户端可能已在运行中.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>mastiffcoin</source>
+        <source>mastcoin</source>
         <translation>黑币</translation>
     </message>
     <message>
@@ -3187,12 +3187,12 @@ alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of mastiffcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of mastcoin</source>
         <translation>wallet.dat 钱包文件加载出错：需要新版本的客户端</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart mastiffcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart mastcoin to complete</source>
         <translation>需要重写钱包，重启客户端以完成该操作。</translation>
     </message>
     <message>
@@ -3262,7 +3262,7 @@ alertnotify=echo %%s | mail -s &quot;mastiffcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. mastiffcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. mastcoin is probably already running.</source>
         <translation>无法绑定到该计算机上的 %s. 黑币客户端可能已在运行中。</translation>
     </message>
     <message>

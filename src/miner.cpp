@@ -524,7 +524,7 @@ void StakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("MastiffCoin-miner");
+    RenameThread("MastCoin-miner");
 
     bool fTryToSync = true;
 

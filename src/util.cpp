@@ -960,7 +960,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "MastiffCoin";
+    const char* pszModule = "MastCoin";
 #endif
     if (pex)
         return strprintf(
@@ -1003,13 +1003,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\MastiffCoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\MastiffCoin
-    // Mac: ~/Library/Application Support/MastiffCoin
-    // Unix: ~/.MastiffCoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\MastCoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\MastCoin
+    // Mac: ~/Library/Application Support/MastCoin
+    // Unix: ~/.MastCoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "MastiffCoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "MastCoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1021,10 +1021,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "MastiffCoin";
+    return pathRet / "MastCoin";
 #else
     // Unix
-    return pathRet / ".MastiffCoin";
+    return pathRet / ".MastCoin";
 #endif
 #endif
 }
@@ -1066,7 +1066,7 @@ const boost::filesystem::path &GetDataDir(bool fNetSpecific)
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "MastiffCoin.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "MastCoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1097,7 +1097,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "MastiffCoind.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "MastCoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }
@@ -1227,10 +1227,10 @@ void AddTimeData(const CNetAddr& ip, int64_t nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong MastiffCoin will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong MastCoin will not work properly.");
                     strMiscWarning = strMessage;
                     printf("*** %s\n", strMessage.c_str());
-                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("MastiffCoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
+                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("MastCoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
                 }
             }
         }
