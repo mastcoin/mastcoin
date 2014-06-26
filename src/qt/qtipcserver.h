@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define MastiffCoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "MastiffCoinURI"
+// Define MastCoin-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "MastCoinURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

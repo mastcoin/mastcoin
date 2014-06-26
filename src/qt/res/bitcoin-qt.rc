@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/mastiffcoin.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/mastcoin.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "MastiffCoin"
-            VALUE "FileDescription",    "mastiffcoin-Qt (OSS GUI client for mastiffcoin)"
+            VALUE "CompanyName",        "MastCoin"
+            VALUE "FileDescription",    "mastcoin-Qt (OSS GUI client for mastcoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "mastiffcoin-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The Zerocoin & PPCoin developers, 2014 The MastiffCoin developers"
+            VALUE "InternalName",       "mastcoin-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The Zerocoin & PPCoin developers, 2014 The MastCoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "mastiffcoin-qt.exe"
-            VALUE "ProductName",        "mastiffcoin-Qt"
+            VALUE "OriginalFilename",   "mastcoin-qt.exe"
+            VALUE "ProductName",        "mastcoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
