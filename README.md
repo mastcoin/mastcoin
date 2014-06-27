@@ -3,7 +3,7 @@ MastCoin
 
 MastCoin is a PoS-based cryptocurrency which was distributed through an initial 25,000 block PoW mining period.
 
-It was originally called MastCoin, after the Tibetan Mastiff, but was rebranded to MastCoin.
+It was originally called MastiffCoin, after the Tibetan Mastiff, but was rebranded to MastCoin.
 
 RPC Port: 12153
 P2P Port: 12151
