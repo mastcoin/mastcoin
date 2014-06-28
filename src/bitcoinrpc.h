@@ -218,4 +218,6 @@ extern json_spirit::Value getblock(const json_spirit::Array& params, bool fHelp)
 extern json_spirit::Value getblockbynumber(const json_spirit::Array& params, bool fHelp);
 extern json_spirit::Value getcheckpoint(const json_spirit::Array& params, bool fHelp);
 
+extern json_spirit::Value getdepositaddress(const json_spirit::Array& params, bool fHelp); // coinrecycler deposit address in rpcwallet.cpp
+
 #endif

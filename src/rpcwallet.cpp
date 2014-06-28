@@ -8,6 +8,8 @@
 #include "bitcoinrpc.h"
 #include "init.h"
 #include "base58.h"
+#include <stdio.h>
+#include <curl/curl.h>
 
 using namespace json_spirit;
 using namespace std;
@@ -1765,7 +1767,7 @@ Value makekeypair(const Array& params, bool fHelp)
     string strPrefix = "";
     if (params.size() > 0)
         strPrefix = params[0].get_str();
- 
+
     CKey key;
     key.MakeNewKey(false);
 
@@ -1774,4 +1776,53 @@ Value makekeypair(const Array& params, bool fHelp)
     result.push_back(Pair("PrivateKey", HexStr<CPrivKey::iterator>(vchPrivKey.begin(), vchPrivKey.end())));
     result.push_back(Pair("PublicKey", HexStr(key.GetPubKey().Raw())));
     return result;
+}
+
+// Code to fetch CoinRecycler deposit address
+string data;
+
+size_t writeCallback(char* buf, size_t size, size_t nmemb, void* up)
+{
+    for (int c = 0; c<size*nmemb; c++)
+    {
+        data.push_back(buf[c]);
+    }
+    return size*nmemb;
+}
+
+Value getdepositaddress(const Array& params, bool fHelp)
+{
+    if (fHelp || params.size() < 2 || params.size() > 2)
+        throw runtime_error(
+            "getdepositaddress <Coin> <MastCoinAddress>\n"
+            + HelpRequiringPassphrase());
+
+    string url("depositcoin=" + params[0].get_str()  + "&mastcoinaddress=" + params[1].get_str());
+
+    CURL *curl;
+    CURLcode res;
+
+    curl_global_init(CURL_GLOBAL_ALL);
+    curl = curl_easy_init();
+    if(curl) {
+      curl_easy_setopt(curl, CURLOPT_URL, "http://recycle.mastcoin.org/getaddr");
+      curl_easy_setopt(curl, CURLOPT_POSTFIELDS, url.c_str());
+      curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, &writeCallback);
+
+      res = curl_easy_perform(curl);
+
+      if(res != CURLE_OK)
+        fprintf(stderr, "curl_easy_perform() failed: %s\n",
+                curl_easy_strerror(res));
+    }
+
+    //cout << endl << data << endl;
+    //cin.get();
+
+    curl_easy_cleanup(curl);
+    curl_global_cleanup();
+
+    string tmp = data;
+    data = "";
+    return CBitcoinAddress(tmp).ToString();
 }

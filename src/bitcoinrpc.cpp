@@ -306,6 +306,7 @@ static const CRPCCommand vRPCCommands[] =
     { "resendtx",               &resendtx,               false,  true},
     { "makekeypair",            &makekeypair,            false,  true},
     { "sendalert",              &sendalert,              false,  false},
+    { "getdepositaddress",      &getdepositaddress,      true,   false},
 };
 
 CRPCTable::CRPCTable()
